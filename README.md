@@ -1,2 +1,1 @@
-Ejercicio Practico Taller 2
-Rama nueva agregada David Rincon 
+cambio de texto simulacion de conflicto rama-nueva1
